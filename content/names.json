@@ -1,0 +1,322 @@
+{
+	"stotras": [
+		{
+			"id": "0",
+			"ln": "sa",
+			"title": {
+				"dn": "श्री गणपत्यथर्वशीर्ष",
+				"en": "Shree Ganpati Arthvarshish",
+				"gu": ""
+			},
+			"from": {
+				"dn": "",
+				"en": "Rigveda",
+				"gu": "ઋગ્વેદ"
+			},
+			"plainTitle": "गणपत्यथर्वशीर्ष",
+			"author": ["Ved"],
+			"reference": [""],
+			"category": ["atharvashirsha", "ganesh", "ganpati", "ved"],
+			"courtesy": "sanskritdocuments.org",
+			"count": "8"
+		},
+		{
+			"id": "1",
+			"ln": "sa",
+			"title": {
+				"dn": "भवान्यष्टकं",
+				"en": "Bhavanyasthkam",
+				"gu": ""
+			},
+			"author": ["shankaracharya"],
+			"reference": [""],
+			"category": ["ashtakam", "devi", "bhavani", "devi", "shankarAchArya"],
+			"courtesy": "sanskritdocuments.org",
+			"count": "8"
+		},
+		{
+			"id": "2",
+			"ln": "sa",
+			"title": {
+				"dn": "श्री कृष्णाष्टकम्",
+				"en": "Shree Krishnashtakam",
+				"gu": "શ્રીકૃષ્ણાષ્ટકં"
+			},
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": "ઋગ્વેદ"
+			},
+			"author": ["shankaracharya"],
+			"reference": [""],
+			"category": ["ashtakam", "krishna", "shankaracharya"],
+			"courtesy": "youtube",
+			"count": "8"
+		},
+		{
+			"id": "3",
+			"ln": "sa",
+			"title": {
+				"dn": "श्री कृष्णाष्टकम् २",
+				"en": "Shree Krishnashtakam 2",
+				"gu": "શ્રીકૃષ્ણાષ્ટકં ૨"
+			},
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"author": ["shankaracharya"],
+			"reference": [""],
+			"category": ["ashtakam", "krishna", "shankaracharya"],
+			"courtesy": "samanvay",
+			"count": "8"
+		},
+		{
+			"id": "4",
+			"ln": "hi",
+			"author": ["जयशंकर प्रसाद", "विश्वनाथ शुक्ला", "हरिवंश प्रसाद शुक्ला"],
+			"from": {
+				"dn": "चाणक्य [डी.डी.१]",
+				"en": "Chanakya [DD 1]",
+				"gu": ""
+			},
+			"time": "1991",
+			"title": {
+				"dn": "हम करें राष्ट्र आराधन",
+				"en": "Hum kare rashtra aaradhan",
+				"gu": ""
+			},
+			"reference": [""],
+			"category": ["rashtra", "krishna", "shankaracharya"],
+			"courtesy": "",
+			"count": "6"
+		},
+		{
+			"id": "5",
+			"ln": "hi",
+			"title": {
+				"dn": "हनुमान चालीसा",
+				"en": "Hanuman Chalisha",
+				"gu": "શ્રી હનુમાન ચાલીસા"
+			},
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"author": ["Tulsidas"],
+			"reference": [""],
+			"category": [""],
+			"courtesy": "",
+			"count": "8"
+		},
+		{
+			"id": "6",
+			"ln": "sa",
+			"author": [""],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["gayatri", "ved", "mantra"],
+			"courtesy": "",
+			"count": "4",
+			"title": {
+				"dn": "गायत्री मन्त्रः",
+				"en": "Gayatri Mantra",
+				"gu": ""
+			},
+			"ty": ""
+		},
+		{
+			"id": "7",
+			"ln": "sa",
+			"author": [""],
+			"from": {
+				"dn": "",
+				"en": "Rigveda",
+				"gu": "ઋગ્વેદ"
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["sri", "shree", "lakshmi", "devi", "ved", "veda", "rigveda", "suktam"],
+			"courtesy": "https://greenmesg.org/stotras/lakshmi/sri_suktam.php",
+			"count": "6",
+			"title": {
+				"dn": "श्रीसुक्तम्",
+				"en": "Shree Suktam",
+				"gu": "શ્રીસૂક્તમ"
+			},
+			"ty": ""
+		},
+		{
+			"id": "8",
+			"ln": "sa",
+			"author": ["Tulsidas"],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "16th Centuray",
+			"reference": ["Wikipedia"],
+			"category": ["ram", "stuti"],
+			"courtesy": "Wikipedia",
+			"count": "6",
+			"title": {
+				"dn": "श्रीरामचन्द्र कृपालु",
+				"en": "Shriramachandra Kripalu",
+				"gu": ""
+			}
+		},
+		{
+			"id": "9",
+			"ln": "sa",
+			"author": [""],
+			"from": {
+				"dn": "",
+				"en": "Rigveda",
+				"gu": "ઋગ્વેદ"
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["names", "sun", "soorya"],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "सूर्य द्वादशनामावलिः",
+				"en": "",
+				"gu": ""
+			}
+		},
+		{
+			"id": "10",
+			"ln": "sa",
+			"author": ["shankaracharya"],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["devi", "stotra", "shakti"],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "महिषासुरमर्दिनि स्तोत्रम्",
+				"en": "Mahishasura Mardini",
+				"gu": ""
+			}
+		},
+		{
+			"id": "11",
+			"ln": "sa",
+			"author": ["Pushpadanta"],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["", ""],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "श्रीशिवमहिम्नस्तोत्र",
+				"en": "shivamahimna stotra",
+				"gu": ""
+			}
+		},
+		{
+			"id": "12",
+			"ln": "sa",
+			"author": ["Vyas"],
+			"from": {
+				"dn": "श्रीमद्भागवत स्कन्ध 6, अ। 8",
+				"en": "Bhagvata Skandh 6 Adhyay 8",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["bhagvat", "narayan", "kavach", "indra"],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "श्री नारायण कवच",
+				"en": "Shri Narayan Kavach",
+				"gu": "શ્રી નારાયણકવચમ્"
+			}
+		},
+		{
+			"id": "13",
+			"ln": "sa",
+			"author": [""],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["shiv", "swar"],
+			"courtesy": "wikipedia",
+			"count": "6",
+			"title": {
+				"dn": "शिव स्वरोदय",
+				"en": "Shiv Swaradoy",
+				"gu": ""
+			},
+			"about": {
+				"dn": "'शिव स्वरोदय' स्वरोदय विज्ञान पर अत्यन्त प्राचीन ग्रंथ है। इसमें कुल 395 श्लोक हैं। यह ग्रंथ शिव-पार्वती संवाद के रूप में लिखा गया है।",
+				"en": "",
+				"gu": ""
+			}
+		},
+		{
+			"id": "14",
+			"ln": "sa",
+			"author": ["vyas"],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["", ""],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "श्रीमद्‍भगवद्‍गीता",
+				"en": "Shreemad Bhagvad Geeta",
+				"gu": "શ્રીમદ્ ભગવદ્ ગીતા"
+			}
+		},
+		{
+			"id": "15",
+			"ln": "sa",
+			"author": [""],
+			"from": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			},
+			"time": "",
+			"reference": [""],
+			"category": ["", ""],
+			"courtesy": "",
+			"count": "6",
+			"title": {
+				"dn": "",
+				"en": "",
+				"gu": ""
+			}
+		}
+	]
+}
